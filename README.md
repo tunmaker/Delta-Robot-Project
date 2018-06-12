@@ -1,5 +1,13 @@
 # Delta-Robot-Project
 Delta Robot pick &amp; place Machine GUI on visual Studio and 3D Model
+TunMaker
+WebSite ► https://www.tunmaker.tn/
+Twitter ► https://twitter.com/Tun_Maker
+Facebook ► https://www.facebook.com/TunisanMaker/
+Instagram ► https://www.instagram.com/tunmaker/
+YouTube ► https://www.youtube.com/c/tunmaker
+
+Playlist of the Project Build from testing and fails to working prototype : https://youtu.be/g7xa9a76zoU?t=8m35s
 
 this repository contains the GUI for the delta robot including the image processing part it is not yet complete and needs your help and expertise to become 100% functional.
 
